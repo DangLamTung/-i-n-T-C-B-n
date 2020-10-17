@@ -1,1 +1,3 @@
-# -i-n-T-C-B-n
+# Điện tử cơ bản
+
+Github của lớp điện tử cơ bản PIF
